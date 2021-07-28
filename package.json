@@ -1,0 +1,8 @@
+{
+  "name": "waline-emoji",
+  "version": "1.0.0",
+  "description": "emoji for waline",
+  "repository": "https://github.com/kottory/waline-emoji.git",
+  "author": "kottory <kottory@outlook.com>",
+  "license": "GPL-3.0"
+}
