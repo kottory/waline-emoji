@@ -17,7 +17,8 @@ if __name__ == "__main__":
         assets_dir = data['text']
         for emoji in emoji_list:
             emoji_name = emoji['meta']['alias']
-            filename = '{}.png'.format(os.path.join(assets_dir, emoji_name))
+            filename = '{}.png'.format(os.path.join(
+                assets_dir, "{}_{}".format(assets_dir, emoji_name)))
             if not os.path.exists(assets_dir):
                 os.makedirs(assets_dir)
             if not os.path.exists(filename):
