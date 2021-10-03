@@ -5,7 +5,7 @@ import os
 import random
 
 url = 'http://api.bilibili.com/x/emote/package?business=reply&ids={}'
-jiaran_list = [221, 245]
+jiaran_list = [221, 245, 288]
 
 
 if __name__ == "__main__":

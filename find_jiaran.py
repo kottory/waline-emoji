@@ -9,7 +9,7 @@ if __name__ == "__main__":
     id_list = []
     for id in range(max_id, 0, -1):
         re = requests.get(url.format(id))
-        if '嘉然' in re.text:
+        if '向晚' in re.text:
             print("Find! in id: {}", id)
             id_list.append(id)
         time.sleep(0.13)
