@@ -12,11 +12,23 @@ python get_emoji.py
 大航海嘉然
 
 ```
-https://cdn.jsdelivr.net/gh/kottory/waline-emoji@1.0.0/大航海嘉然
+https://cdn.jsdelivr.net/gh/kottory/waline-emoji@1.0.1/大航海嘉然
 ```
 
 嘉然今天吃什么
 
 ```
-https://cdn.jsdelivr.net/gh/kottory/waline-emoji@1.0.0/嘉然今天吃什么
+https://cdn.jsdelivr.net/gh/kottory/waline-emoji@1.0.1/嘉然今天吃什么
+```
+
+向晚大魔王
+
+```
+https://cdn.jsdelivr.net/gh/kottory/waline-emoji@1.0.1/向晚大魔王/
+```
+
+贝拉kira
+
+```
+https://cdn.jsdelivr.net/gh/kottory/waline-emoji@1.0.1/贝拉kira/
 ```
